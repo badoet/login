@@ -19,6 +19,10 @@ Todo:
 1. Develop the login page using React
 2. Implement NodeJS server to login user
 
+Bonus:
+make sure user is logged in, 
+i.e when user is logged in and page is refreshed, user remain in logged in state
+
 
 What we looking for:
 
